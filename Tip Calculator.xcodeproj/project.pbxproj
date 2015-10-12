@@ -156,6 +156,7 @@
 		CBB1ED591AFE71D200761801 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = "Ojonimi Bako";
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				CBB1ED821AFE71D200761801 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CBB1ED831AFE71D200761801 /* Build configuration list for PBXNativeTarget "Tip CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				CBB1ED851AFE71D200761801 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
